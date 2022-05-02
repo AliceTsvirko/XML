@@ -1,1 +1,8 @@
-
+<xml>
+  <Issue Type>"Bug"</Issue Type>
+  <Summary>"Login Page: The button 'Sign In' is displaced after clicking on the page"</Summary>
+  <Steps to reproduce>"1.Open the login page. 2.Navigate yo the 'Sign In' button. 3.Click on the page on any place"</Steps to reproduce>
+  <Expected result>"The button 'Sign In' is located on the page according to mockups"</Expected result>
+  <Actual result>" The button 'Sign In' is displaced after clicking on the page"</Actual result>
+  <Priority>"Low"</Priority>
+  <Environment>"Windows 10, Google Chrome v100.0.4896.127"</Environment>
